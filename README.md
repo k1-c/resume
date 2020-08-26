@@ -71,9 +71,9 @@
 - 仮想通貨ゲームのフロントエンド開発 (Nuxt.js)
 - 仮想通貨ウォレットアプリケーションの開発(Python/Django Rest framework, Nuxt.js)
 - 株の自動売買アルゴリズムの作成（Python / FastAPI）
-- ECサイトの改修 (EC-CUBE4)
-- ECサイトの新規開発（EC-CUBE4）
-- ECサイトの新規開発（Shopify）
+- ECサイトの改修 (EC-CUBE4) (進行中)
+- ECサイトの新規開発（EC-CUBE4） (進行中)
+- ECサイトの新規開発（Shopify） (進行中)
 
 
 ## 開発環境
