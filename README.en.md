@@ -12,9 +12,10 @@
 ### Language / Framework
 - Python
   - Web frameworks (Django / Flask / Falcon / FastAPI)
-  - Libraries (NumPy, Pandas, Poetry, SQLAlchemy,  gspread,  etc...)
+  - Libraries (NumPy, Pandas, Poetry, SQLAlchemy, Celery, gspread,  etc...)
 - PHP
   - Laravel
+  - EC-CUBE4
 - HTML / CSS / SASS / SCSS
   - CSS / UI framework (Bootstrap, UIKit, Bluma, Tailwind, Vuetify)
 - JavaScript
@@ -29,6 +30,11 @@
 - Docker / Docker Compose
 - CI/CD (Circle CI, Github Actions)
 - AWS (EC2, ECS, S3, CloudFlont, Route53, Lambda ...)
+- GCP (Cloud Storage, BigQuery ...)
+- LINE messaging API（LINE Bot）
+- Shopify
+  - Customize Shopify theme using Liquid template
+  - Construct Headless Commerce using Shopify Admin API, Storefront API
 - Project Management
   - Although I am not an experienced designer, I can handle everything from analyzing client requirements, defining requirements and identifying use cases, to basic and detailed design, modeling, table design, and implementation.
   - Interest in and understanding of PMBOK
@@ -61,6 +67,7 @@ Including the part I had been working on as a sole proprietor since January 2020
 - Virtual Currency Wallet Application Development (Python/Django Rest) framework, Nuxt.js)
 - Creating automated stock trading algorithms (Python / FastAPI)
 - EC Site Renovation (EC-CUBE)
+- EC Site R
 
 
 ## Development Environment

@@ -12,9 +12,10 @@
 ### 言語/フレームワーク
 - Python
   - Webフレームワーク (Django / Flask / Falcon / FastAPI)
-  - ライブラリ (NumPy, Pandas, Poetry, SQLAlchemy,  gspread,  etc...)
+  - ライブラリ (NumPy, Pandas, Poetry, SQLAlchemy,Celery  gspread,  etc...)
 - PHP
   - Laravel
+  - EC-CUBE4
 - HTML / CSS / SASS / SCSS
   - CSS / UIフレームワーク (Bootstrap, UIKit, Bluma, Tailwind, Vuetify)
 - JavaScript
@@ -29,6 +30,11 @@
 - Docker / Docker Compose
 - CI/CD (Circle CI, Github Actions)
 - AWS (EC2, ECS, S3, CloudFlont, Route53, Lambda ...)
+- GCP (Cloud Storage, BigQuery ...)
+- LINE messaging API（LINE Bot）
+- Shopify
+  - Liquidテンプレートを使ったテーマの改修
+  - Admin API, Storefront APIを用いたヘッドレスコマースの構築
 - プロジェクトマネジメント
   - 経験豊富ではありませんが、クライアントの要求分析から要件定義・ユースケースの洗い出しから基本設計・詳細設計・モデリング・テーブル設計・実装まで対応可能です
   - PMBOKに対する興味・理解
@@ -45,7 +51,10 @@
 ### 得意領域
 業務フローのヒアリングからVBAやGAS、Pythonを使った自動化スクリプトを実装するRPAのような案件や、
 フロントエンド：Vue.js / Nuxt.js, バックエンド：Python / Django Rest framework, インフラ：AWS
-というスタックでのWebアプリケーション開発を得意領域としています。
+というスタックでのWebアプリケーション開発を得意領域としています。<br>
+また、フィリピンでのオフショアコントロールの経験があるので、海外ベンダのマネジメントやプロジェクトマネジメントも対応できます。<br>
+最近では法人でECサイトの構築の受託を始め、EC-CUBE4でのECサイト構築・保守・改修、Shopifyでの新規ECサイト構築・Liquidテンプレートを用いたテーマ改修・Admin APIやStorefront APIを用いたヘッドレスコマースの構築といった仕事をしています。（現在平行してプロジェクト進行中）
+
 
 ## 職務経歴
 ### 株式会社カーギルジャパン (2016年4月〜2018年8月)
@@ -62,7 +71,9 @@
 - 仮想通貨ゲームのフロントエンド開発 (Nuxt.js)
 - 仮想通貨ウォレットアプリケーションの開発(Python/Django Rest framework, Nuxt.js)
 - 株の自動売買アルゴリズムの作成（Python / FastAPI）
-- ECサイトの改修 (EC-CUBE)
+- ECサイトの改修 (EC-CUBE4)
+- ECサイトの新規開発（EC-CUBE4）
+- ECサイトの新規開発（Shopify）
 
 
 ## 開発環境
