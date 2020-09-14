@@ -5,7 +5,7 @@
 | | |
 |---|-----|
 |Full Name|Shun Kimura|
-|Date of Birth| 8, Sep. 1994 (25 yo)|
+|Date of Birth| 8, Sep. 1994 (26 yo)|
 |Final Education|Management Engineering, Tokyo University of Science|
 
 ## Skills
