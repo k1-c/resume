@@ -20,9 +20,11 @@
   - CSS / UIフレームワーク (Bootstrap, UIKit, Bluma, Tailwind, Vuetify)
 - JavaScript
   - jQuery, Vue.js / Nuxt.js
+- TypeScript  
 - SQL
 - VBA
 - Google Apps Script (GAS)
+  - Claspを用いたGit管理下＋TypeScriptでのローカル開発に対応
 
 ### その他
 - Git / Github
