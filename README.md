@@ -19,8 +19,8 @@
 - HTML / CSS / SASS / SCSS
   - CSS / UIフレームワーク (Bootstrap, UIKit, Bluma, Tailwind, Vuetify)
 - JavaScript
-  - jQuery, Vue.js / Nuxt.js
-- TypeScript  
+  - express, jQuery, Vue.js / Nuxt.js / React.js / Next.js
+- TypeScript
 - SQL
 - VBA
 - Google Apps Script (GAS)
@@ -31,17 +31,17 @@
 - Virtual Box / Vagrant
 - Docker / Docker Compose
 - CI/CD (Circle CI, Github Actions)
-- AWS (EC2, ECS, S3, CloudFlont, Route53, Lambda ...)
-- GCP (Cloud Storage, BigQuery ...)
+- AWS (EC2, ECS, ELB, S3, CloudFlont, Route53, Lambda ...)
+- GCP (Cloud Functions, Cloud Storage, BigQuery ...)
 - LINE messaging API（LINE Bot）
 - Shopify
   - Liquidテンプレートを使ったテーマの改修
   - Admin API, Storefront APIを用いたヘッドレスコマースの構築
 - プロジェクトマネジメント
-  - 経験豊富ではありませんが、クライアントの要求分析から要件定義・ユースケースの洗い出しから基本設計・詳細設計・モデリング・テーブル設計・実装まで対応可能です
-  - PMBOKに対する興味・理解
-  - スクラム開発での経験
-  - Issue/Todo管理のためのツール群（Jira, Trello, Github, Notion）
+    - PMBOKに対する理解
+  - スクラム開発での経験（スクラムマスター含む）
+  - 認定スクラムマスター（LSM）
+  - Issue/Todo管理のためのツール群（Jira, Backlog, Trello, Github, Notion）
 - 経理・会計周りの知見
   - 経理部での実務経験あり
   - 日商簿記１級合格・会計士試験短答式試験相当の知見
@@ -51,8 +51,10 @@
   - 日本側で要件定義・基本設計→オフショアへのディレクション・コードレビュー・進捗管理・検収をやっていました
 
 ### 得意領域
-業務フローのヒアリングからVBAやGAS、Pythonを使った自動化スクリプトを実装するRPAのような案件や、
-フロントエンド：Vue.js / Nuxt.js, バックエンド：Python / Django Rest framework, インフラ：AWS
+クライアントの要求分析から要件定義・ユースケースの洗い出しから基本設計・詳細設計・モデリング・テーブル設計・実装・インフラ構築まで一人でワンストップ対応が可能です<br>
+基本的にはWebアプリケーションのフロントエンド開発を得意としており、
+業務フローのヒアリングからVBAやGAS、Pythonを使った自動化スクリプトを実装するRPAのようなプロジェクトや、
+フロントエンド：Vue.js / Nuxt.js, バックエンド：Python / Django Rest framework / Firebase, インフラ：AWS / Firebase
 というスタックでのWebアプリケーション開発を得意領域としています。<br>
 また、フィリピンでのオフショアコントロールの経験があるので、海外ベンダのマネジメントやプロジェクトマネジメントも対応できます。<br>
 最近では法人でECサイトの構築の受託を始め、EC-CUBE4でのECサイト構築・保守・改修、Shopifyでの新規ECサイト構築・Liquidテンプレートを用いたテーマ改修・Admin APIやStorefront APIを用いたヘッドレスコマースの構築といった仕事をしています。（現在平行してプロジェクト進行中）
@@ -73,8 +75,9 @@
 - 仮想通貨ゲームのフロントエンド開発 (Nuxt.js)
 - 仮想通貨ウォレットアプリケーションの開発(Python/Django Rest framework + FastAPI, Nuxt.js)
 - 株の自動売買アルゴリズムの作成（Python / FastAPI）
-- ECサイトのバックエンド基盤構築 (EC-CUBE4) (進行中)
-- ECサイトの新規開発（Shopify） (進行中)
+- ECサイトのバックエンド基盤構築 (EC-CUBE4)
+- ECサイトの新規開発（Shopify）
+- 習い事の個人講師向けチャット機能付きサイトビルダーアプリケーションの開発（Nuxt.js / Firebase）
 
 
 ## 開発環境
